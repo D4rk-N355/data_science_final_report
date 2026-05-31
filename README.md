@@ -59,8 +59,8 @@ We designed this pipeline to be lightweight and thread-safe. It is guaranteed to
 ### 1. Environment Setup
 Clone this repository and navigate to your local working workspace:
 ```bash
-git clone [https://github.com/Ttr1ck3/data_science_final_report.git]
-(https://github.com/Ttr1ck3/data_science_final_report.git)
+git clone [https://github.com/D4rk-N355/data_science_final_report.git]
+(https://github.com/D4rk-N355/data_science_final_report.git)
 cd data_science_final_report
 ```
 
