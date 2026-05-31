@@ -45,7 +45,7 @@ $$Engagement\_Ratio = \frac{24h\_Peak\_Players}{Estimated\_Owners + 10^{-5}}$$
 
 The script bypasses problematic local OS font rendering and automatically outputs a clean, high-resolution **2D dual-panel static chart** (`steam_real_analysis_report.png`) at 300 DPI:
 
-![Steam Analytics Report](./steam_real_analysis_report.png)
+![Steam Analytics Report](./steam_analysis_report.png)
 
 * **Left Subplot (Gamer Psych)**: Maps `Discount_Pct` against `24h_Peak_Players` on a Base-10 Logarithmic Scale ($\log_{10}$) to reveal structural clustering.
 * **Right Subplot (Market Strategy)**: A 2D histogram matrix showcasing the strategic density distribution between `Price_USD` and `Discount_Pct`.
