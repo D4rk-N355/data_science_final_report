@@ -59,7 +59,8 @@ We designed this pipeline to be lightweight and thread-safe. It is guaranteed to
 ### 1. Environment Setup
 Clone this repository and navigate to your local working workspace:
 ```bash
-git clone [https://github.com/yourusername/data_science_final_report.git](https://github.com/yourusername/data_science_final_report.git)
+git clone [https://github.com/Ttr1ck3/data_science_final_report.git]
+(https://github.com/Ttr1ck3/data_science_final_report.git)
 cd data_science_final_report
 ```
 
@@ -70,4 +71,26 @@ cd data_science_final_report
 
 3.Extract and place the CSV file directly into the project root directory, then rename it exactly to:
 
-Plaintext
+```Plaintext
+steam_games_2026.csv
+```
+
+3. Install Clean Dependencies
+Install the standard data science stack using your terminal:
+```bash
+pip install pandas matplotlib seaborn
+```
+
+4. Execute the Analytical Pipeline
+Run the stateless script to sanitize the data stream and generate your fresh report:
+```bash
+python steam_analysis.py
+```
+Upon successful execution, a production-grade steam_real_analysis_report.png will instantly materialize in your folder.
+
+👥 Contributors & Open Source License
+Developed with passion for the Data Science Final Report.
+
+Data Source: Collected via Steam API and curated by Kaggle Open Data.
+
+Distributed under the MIT License. Feel free to fork, experiment, and optimize!
