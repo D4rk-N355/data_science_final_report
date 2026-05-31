@@ -89,8 +89,10 @@ python steam_analysis.py
 Upon successful execution, a production-grade steam_real_analysis_report.png will instantly materialize in your folder.
 
 👥 Contributors & Open Source License
+```
 Developed with passion for the Data Science Final Report.
 
 Data Source: Collected via Steam API and curated by Kaggle Open Data.
 
 Distributed under the MIT License. Feel free to fork, experiment, and optimize!
+```
