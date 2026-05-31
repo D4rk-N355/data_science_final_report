@@ -96,3 +96,5 @@ Data Source: Collected via Steam API and curated by Kaggle Open Data.
 
 Distributed under the MIT License. Feel free to fork, experiment, and optimize!
 ```
+
+***for more imformation , pls go through SPEC_README.md
